@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BarotraumaSerializer": {
+      "commandName": "Project",
+      "commandLineArgs": "--write packs.xml"
+    }
+  }
+}
